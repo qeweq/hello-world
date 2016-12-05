@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-And just another chenge
+And just another change
